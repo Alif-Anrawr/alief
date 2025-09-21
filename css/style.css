@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(184, 142, 142);
+    text-align: center;
+}
+
+#hero { 
+    background: url("8d59a1d6be9b6f426f86cde8509bc044.jpg")no-repeat center center/cover;
+    color:rgb(252, 252, 252);
+    align-items: center;
+    padding: 30px;
+}
+.deskripsi h1{
+    font-size: 28px;
+    color: black;
+}
+
+.deskripsi p{
+    font-size: 45px;
+    color: yellow;
+}
+.btn {
+    text-decoration: none;
+    background-color: green;
+    color: bisque;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: 0,3s;
+}
+
+.btn:hover {
+    background-color: rgb(223, 127, 3);
+}
